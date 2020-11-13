@@ -1,4 +1,4 @@
-tensorflow==1.9.0
+tensorflow==2.3.1
 numpy==1.16.2
 yahoo_fin==0.8.2
 tweepy==3.7.0
